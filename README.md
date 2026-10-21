@@ -1,6 +1,9 @@
 
 # AutoDesk Fusion - Toothed Profile Belt Generator Tool
 
+> **Disclaimer:** This project was vibe coded using Gemini AI. I have tried to use parametric CAD in Fusion multiple times to create a curved belt path, but could never get the results I wanted.
+
+
 ![Pulley Cross Section](Images/PulleyCrossSection.png)___
 
 This Add-in will generate a toothed belt profile along a 2d sketch. It currently supports Gates GT1.5, Gates GT2, HTD 5M and HTD 8M timing belts. It can also create double sided toothed belts, default is single sided.  
